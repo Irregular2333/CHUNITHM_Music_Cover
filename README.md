@@ -1,6 +1,6 @@
 # - 事先声明：所有曲绘的版权归SEGA和对应的画师所有，本仓库仅做整理和搬运，如有侵权请立马联系我
 
-# - [123盘链接一](https://www.123684.com/s/sLYqVv-2iy2d)，[123盘链接二](https://www.123865.com/s/sLYqVv-2iy2d)，提取码均为1145
+# - [123盘链接一](https://www.123684.com/s/sLYqVv-tiy2d)，[123盘链接二](https://www.123865.com/s/sLYqVv-tiy2d)，提取码均为1145
 ## CHUNITHM Music Cover
 A repository used to collect the CHUNITHM Music Cover that I have organized
 
