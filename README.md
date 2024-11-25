@@ -1,6 +1,5 @@
 # - 事先声明：所有曲绘的版权归SEGA和对应的画师所有，本仓库仅做整理和搬运，如有侵权请立马联系我
 
-# - [123盘链接一](https://www.123684.com/s/sLYqVv-TLy2d)，[123盘链接二](https://www.123865.com/s/sLYqVv-TLy2d)，提取码均为1145
 ## CHUNITHM Music Cover
 A repository used to collect the CHUNITHM Music Cover that I have organized
 
@@ -10,10 +9,12 @@ A repository used to collect the CHUNITHM Music Cover that I have organized
 ### - 相关文件夹内容说明
 
 - **[CHUNITHM]**：收集了众多中二节奏内的曲绘，为主要更新内容
-- **[maimaiDX]**：这里主要是收集舞萌地插的曲绘，不是很多，算作附加内容
+- **[CHUNITHM Version Update Post]**：这里收集中二节奏日服每次大更新版本的海报
+- **[maimai DX]**：这里主要是收集舞萌地插的曲绘，不是很多，算作附加内容
+- **[maimai DX Version Update Post]**：这里收集舞萌地插日服每次大更新版本的海报
 - **[ONGEKI]**：这里主要是收集音击的曲绘，后面同上
-- **[Version Update Post]**：这里收集中二节奏日服每次大更新版本的海报
 - **[シビュラ精霊記 Update Post]**：这里收集西比拉精灵纪每次更新曲目的海报，~~其实是夹带私货~~
+- **[Other]**：这里主要都是夹带私货了，嘻嘻，会随机更新一些曲目更新海报
 
 
 ### - 曲绘相关格式
@@ -25,6 +26,9 @@ A repository used to collect the CHUNITHM Music Cover that I have organized
 
 对于这些，我的评价是**又不是不能看**，对吧，大体上能看就差不多得了，超分是超分，又不是原画师来给你超（大嘘），这个清晰度，你拿去定制一些东西应该是不成问题的
 
+
+而其他东西，也就是更新海报和曲目海报这些，尺寸就都不能保证完全统一了。另外还有就是，仓库会不定时搞笑一些奇奇怪怪的东西，敬请期待~
+
 ### - 来源相关
 只有极少部分的画师发过原图（如《真红》，以及Iris的《种子》和《送别》），所以大部分曲绘是从他们的官方音源视频里面抠出来做超分的；另外就是再次声明，**曲绘版权归SEGA和对应的画师所有，本仓库仅做整理和搬运，如有侵权请立马联系我，看到了会第一时间删除相关内容**
 
@@ -35,5 +39,8 @@ A repository used to collect the CHUNITHM Music Cover that I have organized
 - [Github - Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI)
 - [ColorOS15的"AI超清像素"](https://www.coloros.com/version/coloros15/)
 
-### - 最后：来点碎碎念
-其实仓库里面还整理了些mai和ong的曲绘，，不过这就不是重点了，主要还是整理chu的；曲绘随缘更新吧，等以后又出了什么很好看的曲绘大概率我会更新的
+### 123盘链接
+感谢你看到最后，如果受不了Github这个下载或者想打包下载的话，这里直接给出123盘链接
+- [123盘链接一](https://www.123684.com/s/sLYqVv-d5y2d)
+- [123盘链接二](https://www.123865.com/s/sLYqVv-d5y2d)
+- 提取码均为**1145**
