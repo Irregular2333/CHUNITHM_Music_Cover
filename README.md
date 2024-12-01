@@ -41,6 +41,6 @@ A repository used to collect the CHUNITHM Music Cover that I have organized
 
 ### 123盘链接
 感谢你看到最后，如果受不了Github这个下载或者想打包下载的话，这里直接给出123盘链接
-- [123盘链接一](https://www.123684.com/s/sLYqVv-d5y2d)
-- [123盘链接二](https://www.123865.com/s/sLYqVv-d5y2d)
+- [123盘链接一](https://www.123684.com/s/sLYqVv-3jy2d)
+- [123盘链接二](https://www.123865.com/s/sLYqVv-3jy2d)
 - 提取码均为**1145**
